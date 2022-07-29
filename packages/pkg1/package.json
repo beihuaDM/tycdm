@@ -1,6 +1,6 @@
 {
   "name": "@tycdm/monorepo1",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "pkg1",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "@tycdm/monorepo2": "workspace:1.0.0",
+    "@tycdm/monorepo2": "workspace:2.0.0",
     "axios": "^0.27.2",
     "lodash": "^4.17.21"
   }
