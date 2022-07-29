@@ -3,7 +3,7 @@ import axios from 'axios'
 
 const pkg1Func = () => {
   pkg2Func()
-  console.log('我是pkg1')
+  console.log('我是pkg22223')
   axios.get('http://www.baidu.com').then((res) => {
     console.log('我请求到百度了')
   })

@@ -1,9 +1,10 @@
 {
   "name": "@tycdm/monorepo1",
-  "version": "2.0.0",
+  "version": "3.0.1",
   "description": "pkg1",
   "main": "index.js",
   "scripts": {
+    "build": "father-build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

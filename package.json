@@ -17,11 +17,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "dependencies": {
     "jquery": "^3.6.0"
   },
   "devDependencies": {
     "@changesets/cli": "^2.24.1",
+    "father-build": "^1.22.3",
     "html-webpack-plugin": "^5.5.0",
     "rimraf": "^3.0.2",
     "webpack": "^5.74.0",
