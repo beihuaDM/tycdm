@@ -1,5 +1,11 @@
 # @tycdm/monorepo2
 
+## 3.0.2
+
+### Patch Changes
+
+- 改成规范
+
 ## 2.0.0
 
 ### Major Changes

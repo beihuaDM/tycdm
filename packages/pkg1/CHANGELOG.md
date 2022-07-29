@@ -1,5 +1,13 @@
 # @tycdm/monorepo1
 
+## 3.0.2
+
+### Patch Changes
+
+- 改成规范
+- Updated dependencies
+  - @tycdm/monorepo2@3.0.2
+
 ## 3.0.1
 
 ### Patch Changes
