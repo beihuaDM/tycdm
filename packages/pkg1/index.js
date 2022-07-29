@@ -1,5 +1,5 @@
-import { pkg2Func, arr } from '@tycdm/monorepo2'
-import axios from 'axios'
+const { pkg2Func, arr } = require('@tycdm/monorepo2')
+const axios = require('axios') 
 
 const pkg1Func = () => {
   pkg2Func()
@@ -12,6 +12,6 @@ const pkg1Func = () => {
 pkg1Func()
 console.log(arr)
 
-export {
+module.exports =  {
   pkg1Func
 }
